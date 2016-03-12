@@ -1,4 +1,4 @@
-Beaglebone Black qQEP C++ Library
+Beaglebone Black eQEP C++ Library
 =================================
 
 eQEP (Enhanced Quadrature Encoder Pulse) library for Beaglebone Black revision C 
